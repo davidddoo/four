@@ -1,0 +1,11 @@
+Model Information:
+* title:	Obamium (Recreation)
+* source:	https://sketchfab.com/3d-models/obamium-recreation-8253e7140ede4ec1be5391caede42776
+* author:	SpringingTraps (https://sketchfab.com/SpringingTrapss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Obamium (Recreation)" (https://sketchfab.com/3d-models/obamium-recreation-8253e7140ede4ec1be5391caede42776) by SpringingTraps (https://sketchfab.com/SpringingTrapss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
